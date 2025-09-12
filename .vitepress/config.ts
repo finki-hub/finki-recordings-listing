@@ -8,6 +8,22 @@ export default defineConfig({
   srcExclude: [
     'README.md'
   ],
+  markdown: {
+    config: (md) => {
+      md.core.ruler.push('frontmatter-keywords', (state) => {
+        const env: any = state.env || {}
+        const keywords: unknown = env.frontmatter?.keywords
+        if (Array.isArray(keywords) && keywords.length > 0) {
+          // Append a hidden HTML block so the terms are indexed by local search
+          // without authors needing to place HTML in the Markdown.
+          const token = new (state as any).Token('html_block', '', 0)
+          token.content = `<div style="display:none">${keywords.join(' ')}</div>`
+          state.tokens.push(token)
+        }
+        return true
+      })
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'Дома', link: '/' },
