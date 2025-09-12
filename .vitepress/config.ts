@@ -9,6 +9,32 @@ export default defineConfig({
       { text: 'Дома', link: '/' },
       { text: 'Вовед', link: '/courses/' }
     ],
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: 'Пребарај',
+                buttonAriaLabel: 'Пребарај'
+              },
+              modal: {
+                noResultsText: 'Нема резултати',
+                resetButtonTitle: 'Исчисти пребарување',
+                displayDetails: 'Прикажи детали',
+                backButtonTitle: 'Назад',
+                footer: {
+                  selectText: 'избери',
+                  navigateText: 'движи се',
+                  closeText: 'затвори'
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     sidebar: [
       {
         text: 'Преглед',
