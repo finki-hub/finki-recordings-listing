@@ -6,13 +6,16 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "lint:md": "markdownlint \"**/*.md\" --ignore node_modules --ignore .vitepress/dist",
+    "lint:md:fix": "markdownlint \"**/*.md\" --ignore node_modules --ignore .vitepress/dist --fix"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "type": "module",
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "^2.0.0-alpha.12",
+    "markdownlint-cli": "^0.39.0"
   }
 }

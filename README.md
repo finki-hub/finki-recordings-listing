@@ -48,6 +48,22 @@ Preview the production build locally:
 npm run docs:preview
 ```
 
+## Linting
+
+Lint all Markdown files:
+
+```cmd
+npm run lint:md
+```
+
+Auto-fix what can be fixed:
+
+```cmd
+npm run lint:md:fix
+```
+
+Rules are configured in `.markdownlint.jsonc`. Build output and cache folders are ignored via `.markdownlintignore`.
+
 ## Project Structure
 
 ```text
