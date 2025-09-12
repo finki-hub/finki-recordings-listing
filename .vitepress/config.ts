@@ -4,6 +4,10 @@ export default defineConfig({
   lang: "mk",
   title: "ФИНКИ СНИМКИ",
   description: "Колекција од снимки од предмети на ФИНКИ",
+  // Exclude the repository README from being compiled as a page
+  srcExclude: [
+    'README.md'
+  ],
   themeConfig: {
     nav: [
       { text: 'Дома', link: '/' },
