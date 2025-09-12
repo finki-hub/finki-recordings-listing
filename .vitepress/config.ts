@@ -7,13 +7,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Дома', link: '/' },
-      { text: 'Предмети', link: '/courses/' }
+      { text: 'Вовед', link: '/courses/' }
     ],
     sidebar: [
       {
         text: 'Преглед',
         items: [
-          { text: 'Предмети', link: '/courses/' },
+          { text: 'Вовед', link: '/courses/' },
           { text: 'Структурно програмирање', link: '/courses/structural-programming' }
         ]
       }
