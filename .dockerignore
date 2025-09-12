@@ -1,0 +1,17 @@
+# Dependencies and caches
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+
+# VCS and editor
+.git/
+.github/
+.vscode/
+
+# Logs and misc
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Local env
+.env*
