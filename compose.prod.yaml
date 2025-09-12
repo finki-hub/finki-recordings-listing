@@ -1,0 +1,8 @@
+name: finki-recordings-listing
+
+services:
+  site:
+    image: ghcr.io/finki-hub/finki-recordings-listing:latest
+    ports:
+      - "8080:80"
+    restart: unless-stopped
