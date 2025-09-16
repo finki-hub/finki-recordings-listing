@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Преглед на сите предмети
-      link: /courses/
+      link: /introduction
     - theme: alt
       text: Како да придонесете
-      link: /courses/#придонесете
+      link: /introduction#придонесете
 
 features:
   - title: По предмети

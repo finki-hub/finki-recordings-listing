@@ -15,7 +15,8 @@
   "license": "MIT",
   "type": "module",
   "devDependencies": {
+    "markdownlint-cli": "^0.45.0",
     "vitepress": "^2.0.0-alpha.12",
-    "markdownlint-cli": "^0.45.0"
+    "vitepress-sidebar": "^1.33.0"
   }
 }

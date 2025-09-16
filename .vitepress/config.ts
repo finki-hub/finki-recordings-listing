@@ -1,6 +1,9 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, UserConfig } from 'vitepress'
+import { withSidebar } from 'vitepress-sidebar';
 
-export default defineConfig({
+import type { VitePressSidebarOptions } from "vitepress-sidebar/types";
+
+const vitePressOptions: UserConfig = {
   lang: "mk",
   title: "ФИНКИ СНИМКИ",
   description: "Колекција од снимки од предмети на ФИНКИ",
@@ -27,7 +30,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Дома', link: '/' },
-      { text: 'Вовед', link: '/courses/' }
+      { text: 'Вовед', link: '/introduction' }
     ],
     search: {
       provider: 'local',
@@ -55,17 +58,19 @@ export default defineConfig({
         }
       }
     },
-    sidebar: [
-      {
-        text: 'Преглед',
-        items: [
-          { text: 'Вовед', link: '/courses/' },
-          { text: 'Структурно програмирање', link: '/courses/structural-programming' }
-        ]
-      }
-    ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/finki-hub/finki-recordings-listing' }
     ]
   }
-})
+}
+
+const vitePressSidebarOptions: VitePressSidebarOptions = {
+  excludeByGlobPattern: ['README.md'],
+  includeRootIndexFile: false,
+  manualSortFileNameByPriority: ['introduction.md'],
+  useFolderTitleFromIndexFile: true,
+  useTitleFromFileHeading: true,
+  useTitleFromFrontmatter: true,
+}
+
+export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOptions))
