@@ -9,7 +9,7 @@ keywords:
 
 ## Предавања
 
-### 2021 {#предавања-2021}
+### Гоце Арменски, Магдалена Костоска 2021 {#предавања-2021}
 
 1. Вовед во предметот
    - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6772fa3e7c0c1282ba9e00b3b146bcb86fd5a679-1613569102066?meetingId=6772fa3e7c0c1282ba9e00b3b146bcb86fd5a679-1613569102066)
@@ -37,9 +37,34 @@ keywords:
 12. Web API
     - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/3e479d5bb5b1f4948c60fce8760c0204d3d94010-1620977022838?meetingId=3e479d5bb5b1f4948c60fce8760c0204d3d94010-1620977022838)
 
+### Вангел Ајановски, 2022 {#предавања-ва}
+
+1. Организација на предметот и Вовед
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1644925786195)
+2. Веб сајт - од регистрација до хостирање. A02: Apache HTTP веб сервер во контејнер
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1645426230398)
+3. HTTP протокол. Динамички генерирани веб содржини. CGI како основна техника за генерирани веб содржини. A03: Конфигурација на Apache HTTP веб сервер за CGI. Разгледување примери
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1646031191064)
+4. Управување со развоен циклус на проекти. OpenUP. A04: Организација на предметни проекти. Главни елементи од Фаза 1.
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1646635981431)
+5. Развој на веб апликации со Java. Servlet. Java Server Pages (JSP) - Дел 1
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1647240768245)
+6. JSP - Дел 2. Управување со корисничка сесија. Рамка за развој веб апликации Apache Tapestry - Дел 1 - Стартување проект, снаоѓање низ проект, поврзаност на компоненти
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1647847490602)
+7. Tapestry - Дел 2 - Основни компоненти и интеракции. Заднинско процесирање. Процесирање на настани од компонентите.
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1648448833667)
+8. Tapestry - Дел 3 - Други компоненти и интеракции. Предавање објекти на компоненти и настани. Чување/читање објекти од база на податоци со Hibernate. Објектно-релациско мапирање со Hibernate.
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1649658514345)
+9. AAA - Authentication, Authorization, Accounting. Автентикација со Apereo CAS. Имплементација во Tapestry.
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1650263318493)
+10. Општо за MVC. Spring. Основи, почетоци и споредба на Spring MVC со Tapestry. Координација на развој на проекти и проектни сајтови. Програмирање базирано на потреби. Што е Use-case и како се изработува квалитетен модел Use-case diagram.
+    - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d39c3352bea2a445a21ef828d5389d1f38387215-1618581351172?meetingId=d39c3352bea2a445a21ef828d5389d1f38387215-1618581351172)
+11. Целосна архитектура на систем, рефакторирање за поголема повторна употребливост на код. Spring MVC дел 2 - повеќе детали. Автентикација со CAS.
+    - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d39c3352bea2a445a21ef828d5389d1f38387215-1619186247193?meetingId=d39c3352bea2a445a21ef828d5389d1f38387215-1619186247193)
+
 ## Аудиториски вежби
 
-### 2021 {#аудиториски-вежби-2021}
+### Гоце Арменски, Магдалена Костоска 2021 {#аудиториски-вежби-2021}
 
 1. Аудиториски вежби 1
    - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382?meetingId=ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382)
