@@ -1,0 +1,57 @@
+---
+title: Методологија на истражувањето во ИКТ
+keywords:
+  - metodologija na istrazhuvanjeto vo ikt
+  - metodologija na istrazuvanjeto vo ikt
+  - mnivi
+---
+
+# Методологија на истражувањето во ИКТ
+
+## Предавања
+
+### 2023-2024 {#предавања-2023-2024}
+
+1. Вовед
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/c5a2e1e6e039a5bb4108ca80416b14d4f7a98dc0-1697625846543)
+2. Типови на истражување
+   - [Линк 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8082a07120f4c6bea25f189c8f0e4b53cf94c472-1698231177611)
+   - [Линк 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8082a07120f4c6bea25f189c8f0e4b53cf94c472-1697629813950)
+3. Примена на научен метод
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/981ab06a9d69fac26b241c2d407a0b66c4e81bc7-1698233337939)
+4. Вовед во експеримент
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/0c9d6658d16f5702f0b9ec01097a5564f3abcaa3-1698839412149)
+5. Вовед во симулација
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ff68082a7281875a3ebe8e24cacfd5fd37df3e2a-1698843096935)
+6. Пишување научен труд
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/c72f0b8ea47ce99a74b1057b5fed8814036568a5-1699444625825)
+7. Плагијаторство и референцирање
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/85f444befc3ca9d43e10d46319be3babf32d9936-1700049641196)
+8. Организација на конференции
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7873d04d0741aa9b98d2dc145d655c12883d4703-1701258879562)
+9. Статистика и визуелизација
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/22804f70349278b9c0301c038ec10e2af2370fc4-1701863884306)
+10. Отворена наука
+     - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9521c5d7f17496a10b07dc72e528b30c3bc2b344-1702468744276)
+11. Интерактивни трудови
+     - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/66ca22a77caeabf68c61229c60d652ed22814dc6-1703073645423)
+
+## Аудиториски вежби
+
+### 2023-2024 {#аудиториски-вежби-2023-2024}
+
+1. Аудиториска вежба 1 & 2 - Вовед во LaTeX
+   - [Линк 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1698238241386) (дел 1)
+   - [Линк 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1697633656280) (дел 2)
+2. Аудиториска вежба 3 - Експерименти
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8fe09ae251eda21e204d4f47a1f42d8b4ef78548-1698846309864)
+3. Аудиториска вежба 9 - Jupyter тетратки
+   - [Линк](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/57196083be5b07bf71690d56f2d5309f9a99a2a8-1703080329445)
+
+## Дополнителна содржина
+
+- **Нема**
+
+## Белешки
+
+- **Нема**
