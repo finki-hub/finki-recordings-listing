@@ -4,6 +4,8 @@ keywords:
   - objektno orientirana analiza i dizajn
   - ooaid
   - ooad
+  - ооаид
+  - ооад
 ---
 
 # Објектно ориентирана анализа и дизајн

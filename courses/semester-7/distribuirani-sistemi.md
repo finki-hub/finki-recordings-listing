@@ -3,6 +3,7 @@ title: Дистрибуирани системи
 keywords:
   - distribuirani sistemi
   - ds
+  - дс
 ---
 
 # Дистрибуирани системи

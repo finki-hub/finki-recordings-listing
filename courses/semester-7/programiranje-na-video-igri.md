@@ -3,6 +3,7 @@ title: Програмирање на видео игри
 keywords:
   - programiranje na video igri
   - pnvi
+  - пнви
 ---
 
 # Програмирање на видео игри

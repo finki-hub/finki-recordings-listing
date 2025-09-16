@@ -3,6 +3,7 @@ title: Бизнис статистика
 keywords:
   - biznis statistika
   - bs
+  - бс
 ---
 
 # Бизнис статистика

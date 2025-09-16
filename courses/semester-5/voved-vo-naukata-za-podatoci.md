@@ -4,6 +4,7 @@ keywords:
   - voved vo naukata za podatoci
   - vvnp
   - vnp
+  - внп
 ---
 
 # Вовед во науката за податоци

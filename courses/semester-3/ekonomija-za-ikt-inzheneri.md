@@ -4,6 +4,7 @@ keywords:
   - ekonomija za ikt inzheneri
   - ekonomija za ikt inzeneri
   - ezii
+  - езии
 ---
 
 # Економија за ИКТ инженери

@@ -5,6 +5,7 @@ keywords:
   - veb programiranje
   - wp
   - vp
+  - вп
 ---
 
 # Веб програмирање

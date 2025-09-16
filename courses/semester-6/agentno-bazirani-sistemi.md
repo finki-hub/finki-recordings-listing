@@ -3,6 +3,7 @@ title: Агентно-базирани системи
 keywords:
   - agentno bazirani sistemi
   - abs
+  - абс
 ---
 
 # Агентно-базирани системи

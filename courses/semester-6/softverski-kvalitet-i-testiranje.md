@@ -3,6 +3,7 @@ title: Софтверски квалитет и тестирање
 keywords:
   - softverski kvalitet i testiranje
   - skit
+  - скит
 ---
 
 # Софтверски квалитет и тестирање

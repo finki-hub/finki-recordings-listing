@@ -3,6 +3,12 @@ title: Откривање знаење со длабоко учење
 keywords:
   - otkrivanje znaenje so dlaboko uchenje
   - otkrivanje znaenje so dlaboko ucenje
+  - интелигентни информациски системи
+  - inteligentni informaciski sistemi
+  - иис
+  - iis
+  - озду
+  - ozdu
 ---
 
 # Откривање знаење со длабоко учење

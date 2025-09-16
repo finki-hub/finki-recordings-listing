@@ -3,6 +3,7 @@ title: Компјутерски архитектури
 keywords:
   - kompjuterski arhitekturi
   - ka
+  - ка
 ---
 
 # Компјутерски архитектури

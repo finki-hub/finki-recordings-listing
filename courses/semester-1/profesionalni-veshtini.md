@@ -4,6 +4,7 @@ keywords:
   - profesionalni veshtini
   - profesionalni vestini
   - pv
+  - пв
 ---
 
 # Професионални вештини

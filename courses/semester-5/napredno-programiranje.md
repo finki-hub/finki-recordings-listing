@@ -3,6 +3,7 @@ title: Напредно програмирање
 keywords:
   - napredno programiranje
   - np
+  - нп
 ---
 
 # Напредно програмирање

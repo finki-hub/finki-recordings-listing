@@ -3,6 +3,7 @@ title: Дигитална форензика
 keywords:
   - digitalna forenzika
   - df
+  - дф
 ---
 
 # Дигитална форензика

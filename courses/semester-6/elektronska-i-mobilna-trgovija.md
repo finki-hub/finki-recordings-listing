@@ -3,6 +3,9 @@ title: Електронска и мобилна трговија
 keywords:
   - elektronska i mobilna trgovija
   - emt
+  - eimt
+  - емт
+  - еимт
 ---
 
 # Електронска и мобилна трговија

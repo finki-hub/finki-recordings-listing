@@ -3,6 +3,7 @@ title: Микропроцесорски системи
 keywords:
   - mikroprocesorski sistemi
   - ms
+  - мс
 ---
 
 # Микропроцесорски системи

@@ -3,6 +3,7 @@ title: Дизајн на дигитални кола
 keywords:
   - dizajn na digitalni kola
   - ddk
+  - ддк
 ---
 
 # Дизајн на дигитални кола

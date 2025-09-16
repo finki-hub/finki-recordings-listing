@@ -3,6 +3,7 @@ title: Основи на роботиката
 keywords:
   - osnovi na robotikata
   - onr
+  - онр
 ---
 
 # Основи на роботиката

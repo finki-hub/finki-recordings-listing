@@ -4,6 +4,7 @@ keywords:
   - softversko inzhenerstvo
   - softversko inzenerstvo
   - si
+  - си
 ---
 
 # Софтверско инженерство

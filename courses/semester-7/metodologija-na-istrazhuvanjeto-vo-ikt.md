@@ -4,6 +4,9 @@ keywords:
   - metodologija na istrazhuvanjeto vo ikt
   - metodologija na istrazuvanjeto vo ikt
   - mnivi
+  - mii
+  - мниви
+  - мии
 ---
 
 # Методологија на истражувањето во ИКТ

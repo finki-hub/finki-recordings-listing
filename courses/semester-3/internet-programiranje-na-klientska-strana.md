@@ -4,6 +4,8 @@ keywords:
   - internet programiranje na klientska strana
   - ipnks
   - ipks
+  - ипнкс
+  - ипкс
 ---
 
 # Интернет програмирање на клиентска страна

@@ -3,6 +3,7 @@ title: Визуелно програмирање
 keywords:
   - vizuelno programiranje
   - vp
+  - вп
 ---
 
 # Визуелно програмирање

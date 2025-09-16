@@ -3,6 +3,7 @@ title: Информациска безбедност
 keywords:
   - informaciska bezbednost
   - ib
+  - иб
 ---
 
 # Информациска безбедност

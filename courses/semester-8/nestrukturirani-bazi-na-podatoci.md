@@ -4,6 +4,8 @@ keywords:
   - nestrukturirani bazi na podatoci
   - nbnp
   - nbp
+  - нбнп
+  - нбп
 ---
 
 # Неструктурирани бази на податоци

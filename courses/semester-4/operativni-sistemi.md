@@ -3,6 +3,7 @@ title: Оперативни системи
 keywords:
   - operativni sistemi
   - os
+  - ос
 ---
 
 # Оперативни системи

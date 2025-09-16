@@ -4,6 +4,8 @@ keywords:
   - analiza na softverskite baranja
   - ansb
   - asb
+  - ансб
+  - асб
 ---
 
 # Анализа на софтверските барања

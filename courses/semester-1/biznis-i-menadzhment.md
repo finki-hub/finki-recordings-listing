@@ -4,6 +4,7 @@ keywords:
   - biznis i menadzhment
   - biznis i menadzment
   - bim
+  - бим
 ---
 
 # Бизнис и менаџмент

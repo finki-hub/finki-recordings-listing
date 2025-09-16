@@ -4,6 +4,7 @@ keywords:
   - podatochno rudarenje
   - podatocno rudarenje
   - pr
+  - пр
 ---
 
 # Податочно рударење

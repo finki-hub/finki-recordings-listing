@@ -5,6 +5,8 @@ keywords:
   - algoritmi i podatocni strukturi
   - aips
   - aps
+  - аипс
+  - апс
 ---
 
 # Алгоритми и податочни структури

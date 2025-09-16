@@ -4,6 +4,8 @@ keywords:
   - digitalno procesiranje na slika
   - dpns
   - dps
+  - дпнс
+  - дпс
 ---
 
 # Дигитално процесирање на слика

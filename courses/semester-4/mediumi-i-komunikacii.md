@@ -3,6 +3,7 @@ title: Медиуми и комуникации
 keywords:
   - mediumi i komunikacii
   - mik
+  - мик
 ---
 
 # Медиуми и комуникации

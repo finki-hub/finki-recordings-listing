@@ -4,6 +4,8 @@ keywords:
   - voved vo pametni gradovi
   - vvpg
   - vpg
+  - ввпг
+  - впг
 ---
 
 # Вовед во паметни градови

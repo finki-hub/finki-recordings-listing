@@ -5,6 +5,8 @@ keywords:
   - dizajn na interakcijata covek kompjuter
   - dnick
   - dick
+  - дничк
+  - дичк
 ---
 
 # Дизајн на интеракцијата човек-компјутер

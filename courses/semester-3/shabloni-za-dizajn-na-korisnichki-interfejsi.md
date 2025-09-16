@@ -3,6 +3,7 @@ title: Шаблони за дизајн на кориснички интерфе
 keywords:
   - shabloni za dizajn na korisnichki interfejsi
   - sabloni za dizajn na korisnicki interfejsi
+  - шднк
 ---
 
 # Шаблони за дизајн на кориснички интерфејси

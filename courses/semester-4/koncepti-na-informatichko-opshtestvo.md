@@ -4,6 +4,7 @@ keywords:
   - koncepti na informatchko opshtestvo
   - koncepti na informaticko opstestvo
   - knio
+  - книо
 ---
 
 # Концепти на информатичко општество

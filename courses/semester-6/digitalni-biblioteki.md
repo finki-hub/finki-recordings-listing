@@ -3,6 +3,7 @@ title: Дигитални библиотеки
 keywords:
   - digitalni biblioteki
   - db
+  - дб
 ---
 
 # Дигитални библиотеки
