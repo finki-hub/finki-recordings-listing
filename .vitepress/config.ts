@@ -1,5 +1,5 @@
-import { defineConfig, UserConfig } from 'vitepress'
-import { withSidebar } from 'vitepress-sidebar';
+import { defineConfig, UserConfig } from "vitepress";
+import { withSidebar } from "vitepress-sidebar";
 
 import type { VitePressSidebarOptions } from "vitepress-sidebar/types";
 
@@ -8,69 +8,87 @@ const vitePressOptions: UserConfig = {
   title: "ФИНКИ СНИМКИ",
   description: "Колекција од снимки од предмети на ФИНКИ",
   // Exclude the repository README from being compiled as a page
-  srcExclude: [
-    'README.md'
-  ],
+  srcExclude: ["README.md"],
   markdown: {
     config: (md) => {
-      md.core.ruler.push('frontmatter-keywords', (state) => {
-        const env: any = state.env || {}
-        const keywords: unknown = env.frontmatter?.keywords
+      md.core.ruler.push("frontmatter-keywords", (state) => {
+        const env: any = state.env || {};
+        const keywords: unknown = env.frontmatter?.keywords;
         if (Array.isArray(keywords) && keywords.length > 0) {
           // Append a hidden HTML block so the terms are indexed by local search
           // without authors needing to place HTML in the Markdown.
-          const token = new (state as any).Token('html_block', '', 0)
-          token.content = `<div style="display:none">${keywords.join(' ')}</div>`
-          state.tokens.push(token)
+          const token = new (state as any).Token("html_block", "", 0);
+          token.content = `<div style="display:none">${keywords.join(
+            " "
+          )}</div>`;
+          state.tokens.push(token);
         }
-        return true
-      })
-    }
+        return true;
+      });
+    },
   },
   themeConfig: {
     nav: [
-      { text: 'Дома', link: '/' },
-      { text: 'Вовед', link: '/introduction' }
+      { text: "Дома", link: "/" },
+      { text: "Вовед", link: "/introduction" },
     ],
     search: {
-      provider: 'local',
+      provider: "local",
       options: {
         locales: {
           root: {
             translations: {
               button: {
-                buttonText: 'Пребарај',
-                buttonAriaLabel: 'Пребарај'
+                buttonText: "Пребарај",
+                buttonAriaLabel: "Пребарај",
               },
               modal: {
-                noResultsText: 'Нема резултати',
-                resetButtonTitle: 'Исчисти пребарување',
-                displayDetails: 'Прикажи детали',
-                backButtonTitle: 'Назад',
+                noResultsText: "Нема резултати",
+                resetButtonTitle: "Исчисти пребарување",
+                displayDetails: "Прикажи детали",
+                backButtonTitle: "Назад",
                 footer: {
-                  selectText: 'избери',
-                  navigateText: 'движи се',
-                  closeText: 'затвори'
-                }
-              }
-            }
-          }
-        }
-      }
+                  selectText: "избери",
+                  navigateText: "движи се",
+                  closeText: "затвори",
+                },
+              },
+            },
+          },
+        },
+      },
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/finki-hub/finki-recordings-listing' }
-    ]
-  }
-}
+      {
+        icon: "github",
+        link: "https://github.com/finki-hub/finki-recordings-listing",
+      },
+    ],
+    sidebarMenuLabel: "Мени",
+    returnToTopLabel: "Врати се на врвот",
+    darkModeSwitchLabel: "Тема",
+    lightModeSwitchTitle: "Светла тема",
+    darkModeSwitchTitle: "Темна тема",
+    skipToContentLabel: "Прескокни до содржина",
+    outline: {
+      label: "Содржина",
+    },
+    docFooter: {
+      prev: false,
+      next: false,
+    },
+  },
+};
 
 const vitePressSidebarOptions: VitePressSidebarOptions = {
-  excludeByGlobPattern: ['README.md'],
+  excludeByGlobPattern: ["README.md"],
   includeRootIndexFile: false,
-  manualSortFileNameByPriority: ['introduction.md'],
+  manualSortFileNameByPriority: ["introduction.md"],
   useFolderTitleFromIndexFile: true,
   useTitleFromFileHeading: true,
   useTitleFromFrontmatter: true,
-}
+};
 
-export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOptions))
+export default defineConfig(
+  withSidebar(vitePressOptions, vitePressSidebarOptions)
+);
