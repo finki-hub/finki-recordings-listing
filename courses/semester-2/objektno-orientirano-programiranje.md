@@ -1,5 +1,5 @@
 ---
-title: Објектно ориентирано програмирање
+title: Објектно-ориентирано програмирање
 keywords:
   - objektno orientirano programiranje
   - oop
