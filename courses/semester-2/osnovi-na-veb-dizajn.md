@@ -1,5 +1,5 @@
 ---
-title: Основи на веб дизајн
+title: Основи на Веб дизајн
 keywords:
   - osnovi na veb dizajn
   - onvd
