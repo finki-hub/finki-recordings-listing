@@ -1,1 +1,76 @@
----title: Мобилни платформи и програмирањеkeywords:  - mobilni platformi i programiranje  - mpip  - мпип---# Мобилни платформи и програмирање## Предавања### 2023 {#предавања-2023}1. Вовед во предметот и вовед во Android2. [Вовед во Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f58afe7ba459a097fdb5b5a1855213c1c0e3d3a-1697729192038)3. [Вовед во Android 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/852e5c8822b524c436ad0cd9f17485966e823548-1698334994953)4. [Апликациски компоненти (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f3600df795af2875080eb3766cd025a00e8e450-1698944134508)5. Апликациски компоненти (Дел 2)6. [Апликациски компоненти (Дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/85eaecc950e7bc4b7ca3b0ed1d2ea084eb5f277c-1699549679009)7. [Апликациски компоненти (Дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04c9e31578015d8a2f44a4d924691d4f80cc9089-1700151862563)### 2022 {#предавања-2022}1. [Вовед во предметот и вовед во Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a93896142056a4244314d3543ff4e9c10524330c-1666100868461)2. [Апликациска Архитектура на Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6de2591daca1e4f17e8d028fa82c54c76be51b0b-1666706290196)3. [Апликациски компоненти (Context, Activity, Fragment, Intent, Service)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7be28e2a9e79b6979c11204a4dd8a99fdfd7e78b-1667315013704)4. [Broadcast Receivers, Services, Content Providers and Content Resolvers](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/0485dba2219761f83a9c942e638dd0ca79ad3a99-1667919624996)5. [Фрагменти, (Resources) Ресурси и Android.xml](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/65e9d1bc6b30c91e88e23ea5e186ccac8bbdc39a-1668692768995)## Аудиториски вежби### 2023 {#аудиториски-вежби-2023}1. [Intro to Kotlin](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/963abdbba2a96b9bd9834e1821be18a3eb69d66b-1697637215598)2. [Kotlin Practical](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6a144c7c7ddbc85756bdf974df3bc231053d8f98-1698242109352)3. [Rock Paper Scissors](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/18a9ae40a2c5e3a130506cc9f17a4bb04fdd73e4-1698850389961)4. [Intents](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8e696d3043632fc85b0c9dfac89c6766b2932473-1699454981975)5. [RecyclerView](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90fa3f3becc5665495863d3b775dbc1e7126017d-1700059999983)6. [MVVM + RepositoryPattern](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6f0ef45db3a2f34c820863c114e6f4eb4abdb496-1701269476168)7. [Fragments (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bd65cbaa03c42689ee901de3f85e3728377980c5-1701937283481)8. [Fragments (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a2adabaf6ccbdd62b88d37d186c2b279953bda7b-1702479187574)### 2022 {#аудиториски-вежби-2022}1. [Kotlin Practical](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/24cc090fb206408dbf5af6b1baa64a856f2ede38-1666875727306)2. [Basic View Components (TextView, EditView and Button)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667740639834)3. [View Model (Closely Related to Android App Lifecycle)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667744412327)4. [Live Data](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667750582469)5. [Intents Intro (Theory)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667755113037)6. [Explicit Intents (from Activity1 to Activity2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667758247285)7. [Implicit Intents (Opening Maps, Sending Mail, Using Calendar, Opening a Web Site)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667760413064)8. [Custom Activity with Implicit Intent](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668086357094)9. [Get a result from an activity (Callback)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668090043819)10. [RecyclerView + Adapter with MutableList<String>](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668099145785)11. [View Folder + Adapter with Image Example Recycler View](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668101780906)12. [Fragments](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670332825694)13. [Methods and Concepts for Communication between Host Activities and Fragments + Data Binding & View Binding](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670339799784)14. [Communication between a Group of Fragments + Difference between activityViewModels() and viewModels](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670342113021)15. [Dialogs in Android for Forms or Confirmation](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670346942288)16. [Coroutines and Channels](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671137096940)17. [MVVM + MovieApp API Search Movies using Retrofit and Coroutines](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671141835740)18. [Room (Persisting Data in Local Database) (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672850260132)19. [Room (Persisting Data in Local Database) (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672853046918)## Дополнителна содржина- [Димитар Китановски 2021 Аудиториска Recycler View + Fragment Manager for Transactions](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9d22454acec47c5728c9989cf1cd267de19e37f9-1635962007440?meetingId=9d22454acec47c5728c9989cf1cd267de19e37f9-1635962007440)- [Димитар Китановски 2021 Аудиториска Custom Dialog + Fragments](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7c8cce3941303a6ce14f1dd7fff7afc9e3c9608f-1636724769097?meetingId=7c8cce3941303a6ce14f1dd7fff7afc9e3c9608f-1636724769097)- [Кодот од Аудиториските вежби со Костадин Мишев](https://gitlab.com/mpip-2022)- [Кодот од Аудиториските вежби со Милена Трајаноска](https://gitlab.com/dodevskamila/rockpaperscissors)- [GitHub линк од апликацијата](https://github.com/margaritajankovska/finki-movie-app)## Белешки- **Нема**
+---
+title: Мобилни платформи и програмирање
+keywords:
+  - mobilni platformi i programiranje
+  - mpip
+  - мпип
+---
+
+# Мобилни платформи и програмирање
+
+## Предавања
+
+### 2023 {#предавања-2023}
+
+1. Вовед во предметот и вовед во Android
+2. [Вовед во Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f58afe7ba459a097fdb5b5a1855213c1c0e3d3a-1697729192038)
+3. [Вовед во Android 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/852e5c8822b524c436ad0cd9f17485966e823548-1698334994953)
+4. [Апликациски компоненти (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f3600df795af2875080eb3766cd025a00e8e450-1698944134508)
+5. Апликациски компоненти (Дел 2)
+6. [Апликациски компоненти (Дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/85eaecc950e7bc4b7ca3b0ed1d2ea084eb5f277c-1699549679009)
+7. [Апликациски компоненти (Дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04c9e31578015d8a2f44a4d924691d4f80cc9089-1700151862563)
+
+### 2022 {#предавања-2022}
+
+1. [Вовед во предметот и вовед во Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a93896142056a4244314d3543ff4e9c10524330c-1666100868461)
+2. [Апликациска Архитектура на Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6de2591daca1e4f17e8d028fa82c54c76be51b0b-1666706290196)
+3. [Апликациски компоненти (`Context`, `Activity`, `Fragment`, `Intent`, `Service`)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7be28e2a9e79b6979c11204a4dd8a99fdfd7e78b-1667315013704)
+4. [Broadcast Receivers, Services, Content Providers and Content Resolvers](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/0485dba2219761f83a9c942e638dd0ca79ad3a99-1667919624996)
+5. [Фрагменти, (Resources) Ресурси и `Android.xml`](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/65e9d1bc6b30c91e88e23ea5e186ccac8bbdc39a-1668692768995)
+
+## Аудиториски вежби
+
+### 2023 {#аудиториски-вежби-2023}
+
+1. [Intro to Kotlin](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/963abdbba2a96b9bd9834e1821be18a3eb69d66b-1697637215598)
+2. [Kotlin Practical](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6a144c7c7ddbc85756bdf974df3bc231053d8f98-1698242109352)
+3. [Rock Paper Scissors](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/18a9ae40a2c5e3a130506cc9f17a4bb04fdd73e4-1698850389961)
+4. [Intents](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8e696d3043632fc85b0c9dfac89c6766b2932473-1699454981975)
+5. [RecyclerView](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90fa3f3becc5665495863d3b775dbc1e7126017d-1700059999983)
+6. [MVVM + RepositoryPattern](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6f0ef45db3a2f34c820863c114e6f4eb4abdb496-1701269476168)
+7. [Fragments (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bd65cbaa03c42689ee901de3f85e3728377980c5-1701937283481)
+8. [Fragments (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a2adabaf6ccbdd62b88d37d186c2b279953bda7b-1702479187574)
+
+### 2022 {#аудиториски-вежби-2022}
+
+1. [Kotlin Practical](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/24cc090fb206408dbf5af6b1baa64a856f2ede38-1666875727306)
+2. [Basic View Components (`TextView`, `EditView` and `Button`)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667740639834)
+3. [View Model (Closely Related to Android App Lifecycle)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667744412327)
+4. [Live Data](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667750582469)
+5. [Intents Intro (Theory)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667755113037)
+6. [Explicit Intents (from `Activity1` to `Activity2`)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667758247285)
+7. [Implicit Intents (Opening Maps, Sending Mail, Using Calendar, Opening a Web Site)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9bd38f96dce1a64039a45f1d739d6d4116905f9b-1667760413064)
+8. [Custom Activity with Implicit Intent](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668086357094)
+9. [Get a result from an activity (Callback)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668090043819)
+10. [RecyclerView + Adapter with `MutableList<String>`](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668099145785)
+11. [View Folder + Adapter with Image Example Recycler View](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/00375718e2ab1846c9fc70d3a9e1b5485b12dab2-1668101780906)
+12. [Fragments](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670332825694)
+13. [Methods and Concepts for Communication between Host Activities and Fragments + Data Binding & View Binding](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670339799784)
+14. [Communication between a Group of Fragments + Difference between `activityViewModels()` and `viewModels`](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670342113021)
+15. [Dialogs in Android for Forms or Confirmation](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670346942288)
+16. [Coroutines and Channels](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671137096940)
+17. [MVVM + MovieApp API Search Movies using Retrofit and Coroutines](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671141835740)
+18. [Room (Persisting Data in Local Database) (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672850260132)
+19. [Room (Persisting Data in Local Database) (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672853046918)
+
+## Дополнителна содржина
+
+- [Димитар Китановски 2021 Аудиториска Recycler View + Fragment Manager for Transactions](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9d22454acec47c5728c9989cf1cd267de19e37f9-1635962007440?meetingId=9d22454acec47c5728c9989cf1cd267de19e37f9-1635962007440)
+- [Димитар Китановски 2021 Аудиториска Custom Dialog + Fragments](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7c8cce3941303a6ce14f1dd7fff7afc9e3c9608f-1636724769097?meetingId=7c8cce3941303a6ce14f1dd7fff7afc9e3c9608f-1636724769097)
+- [Кодот од Аудиториските вежби со Костадин Мишев](https://gitlab.com/mpip-2022)
+- [Кодот од Аудиториските вежби со Милена Трајаноска](https://gitlab.com/dodevskamila/rockpaperscissors)
+- [GitHub линк од апликацијата](https://github.com/margaritajankovska/finki-movie-app)
+
+## Белешки
+
+- **Нема**
