@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Вовед и бројни системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/94cd39a31206a3522f5e1fe158190455fb5716e7-1633517117178?meetingId=94cd39a31206a3522f5e1fe158190455fb5716e7-1633517117178)
 2. [Бројни системи и комплементи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d69a465ff3764df4ea827d25a7e7a10616c5094f-1634028327367?meetingId=d69a465ff3764df4ea827d25a7e7a10616c5094f-1634028327367)

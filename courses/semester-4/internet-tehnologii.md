@@ -9,7 +9,7 @@ keywords:
 
 ## Предавања
 
-### Гоце Арменски, Магдалена Костоска 2021 {#предавања-2021}
+### Гоце Арменски, Магдалена Костоска, 2021 {#предавања-га-мк-2021}
 
 1. [Вовед во предметот](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6772fa3e7c0c1282ba9e00b3b146bcb86fd5a679-1613569102066?meetingId=6772fa3e7c0c1282ba9e00b3b146bcb86fd5a679-1613569102066)
 2. [Комуникација на веб](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8908a68d5c907808745300448f2c33034cd51e5b-1614261478877?meetingId=8908a68d5c907808745300448f2c33034cd51e5b-1614261478877)
@@ -25,7 +25,7 @@ keywords:
 12. [Автентикација, авторизација и безбедност](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d17c42593122bf9282c06309dff9fd9da5844e47-1620373800077?meetingId=d17c42593122bf9282c06309dff9fd9da5844e47-1620373800077)
 13. [Web API](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/3e479d5bb5b1f4948c60fce8760c0204d3d94010-1620977022838?meetingId=3e479d5bb5b1f4948c60fce8760c0204d3d94010-1620977022838)
 
-### Вангел Ајановски, 2022 {#предавања-ва}
+### Вангел Ајановски, 2022 {#предавања-ва-2022}
 
 1. [Организација на предметот и Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1644925786195)
 2. [Веб сајт - од регистрација до хостирање. A02: Apache HTTP веб сервер во контејнер](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/02a46c087d5ed530bd6d54177fdffac02ff3f3cf-1645426230398)
@@ -41,9 +41,9 @@ keywords:
 
 ## Аудиториски вежби
 
-### Гоце Арменски, Магдалена Костоска 2021 {#аудиториски-вежби-2021}
+### Гоце Арменски, Магдалена Костоска, 2021 {#аудиториски-вежби-га-мк-2021}
 
-1. [Аудиториски вежби 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382?meetingId=ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382)
+1. [Аудиториска вежба 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382?meetingId=ea3b9cf96c72af16609676c205e643ccad6b4e6e-1614256725382)
 2. [Аудиториска вежба 2 и 3](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2a3cfa506cf7f3fcae392451d83d57c6abafb011-1614864597408?meetingId=2a3cfa506cf7f3fcae392451d83d57c6abafb011-1614864597408)
 3. [Аудиториска вежба 4 (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9fc0f888e7d0119b53ec8352392a08ede9640ff5-1616070893083?meetingId=9fc0f888e7d0119b53ec8352392a08ede9640ff5-1616070893083)
 4. [Аудиториска вежба 4 (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6737f4145ed6fad199accbcca0a93c6d47eaf3fc-1616755827308?meetingId=6737f4145ed6fad199accbcca0a93c6d47eaf3fc-1616755827308)

@@ -14,7 +14,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### Милена Трајаноска, 2023
+### Милена Трајаноска, 2023 {#аудиториски-вежби-мт-2023}
 
 1. [Install Flutter](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/045d8367af6678f617c63fd750b63802d3ca4ae3-1697644923114)
 2. [Intro to Dart](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ff76722793b6f72dd7aed875ac876bdfaf628288-1698249246522)
@@ -23,15 +23,15 @@ keywords:
 5. [Basic Dart Components](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/86ea58a30331fb32331b5e4682e3b1a0df32eab7-1700066295659)
 6. [To Do List App Upgrade](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5f8afa6ded684371b50aa5d09569a1c43a53909f-1701275429520)
 
-### Петре Ламески, 2021
+### Петре Ламески, 2021 {#аудиториски-вежби-пл-2021}
 
 1. [Intro To Dart](https://www.youtube.com/watch?v=8JUQPbO8nlY)
-2. [Flutter (Дел 1)](https://www.youtube.com/watch?v=q_lOgGPjzIc)
-3. [Flutter (Дел 2)](https://www.youtube.com/watch?v=ut6c9kcMM94)
-4. [Flutter (Дел 3)](https://www.youtube.com/watch?v=URL6qxxhBW4)
-5. [Предавање 6 и 7](https://www.youtube.com/watch?v=AmmjKLB_OBY)
-6. [Преддавање 8](https://www.youtube.com/watch?v=ywTXTTuwu4k)
-7. [Предавање 9](https://www.youtube.com/watch?v=UIMvMa0sgIQ)
+2. [Flutter (дел 1)](https://www.youtube.com/watch?v=q_lOgGPjzIc)
+3. [Flutter (дел 2)](https://www.youtube.com/watch?v=ut6c9kcMM94)
+4. [Flutter (дел 3)](https://www.youtube.com/watch?v=URL6qxxhBW4)
+5. [Аудиториска вежба 6 и 7](https://www.youtube.com/watch?v=AmmjKLB_OBY)
+6. [Аудиториска вежба 8](https://www.youtube.com/watch?v=ywTXTTuwu4k)
+7. [Аудиториска вежба 9](https://www.youtube.com/watch?v=UIMvMa0sgIQ)
 
 ## Дополнителна содржина
 

@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9dae5463848f233f5ba37be0593ee2ddc6c19679-1613465710353?meetingId=9dae5463848f233f5ba37be0593ee2ddc6c19679-1613465710353)
 2. [Квалитет на софтверот](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8581fe353025301d6e321a943f830cbee1b4cdf7-1614696906230?meetingId=8581fe353025301d6e321a943f830cbee1b4cdf7-1614696906230)
@@ -29,7 +29,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2020
+### 2020 {#аудиториски-вежби-2020}
 
 1. [Контрола на верзии + Вовед во Git](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e593fa145c7de7e2d3263f3720035fa5a6cc3097-1645451044598)
 2. [Контрола на верзии + Вовед во Git](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e593fa145c7de7e2d3263f3720035fa5a6cc3097-1645530366675)

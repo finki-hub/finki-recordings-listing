@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Менаџерите на своето работно место](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/056c767b1c6e8341dce138a2c6359da34601505a-1602576547487?meetingId=056c767b1c6e8341dce138a2c6359da34601505a-1602576547487)
 2. [Донесување одлуки](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7017bb1cded59cadcc98b577bda42bcb6c189726-1603011919962?meetingId=7017bb1cded59cadcc98b577bda42bcb6c189726-1603011919962)

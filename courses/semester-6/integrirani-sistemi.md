@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [Вовед во Интеграција на системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/fd485340e1dd4b7b3587a93d6fc18ca71d382024-1645520581216)
 2. [Еnterprise Data Models](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d237cd9a260f19961f02c86dfcdb99d7def80b36-1646124577226)
@@ -24,7 +24,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2021
+### 2021 {#аудиториски-вежби-2021}
 
 1. [Intro to ASP.NET Core](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a8f88612adb72f94c7b306afe36597bfd7d207f5-1614340240578?meetingId=a8f88612adb72f94c7b306afe36597bfd7d207f5-1614340240578)
 2. [Product CRUD, ShoppingCart](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/698097c292b74c8cc2d4731e62d5a12534dbf73b-1614944739854?meetingId=698097c292b74c8cc2d4731e62d5a12534dbf73b-1614944739854)
@@ -39,7 +39,7 @@ keywords:
 
 ## Дополнителна содржина
 
-- [Код од Аудиториски](https://github.com/KitanovskiD/IS2023)
+- [Код од Аудиториски вежби](https://github.com/KitanovskiD/IS2023)
 
 ## Белешки
 

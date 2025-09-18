@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/4d1d33f7e56b53c521582b5fd03bac683adeb802-1601971724660?meetingId=4d1d33f7e56b53c521582b5fd03bac683adeb802-1601971724660)
 2. [Комуникациски вештини](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1f8ed7e00e104bce232c48feaece2052f65afc2d-1602654426599?meetingId=1f8ed7e00e104bce232c48feaece2052f65afc2d-1602654426599)

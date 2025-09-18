@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања + Аудиториски вежби
 
-### 2023
+### 2023 {#предавања-аудиториски-вежби-2023}
 
 1. [Source Control with Git (GitHub, GitLab)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/23b0edd3117f8d6dbfc81def4cdeb7fbc05fcb13-1677570337428)
 2. [System Containers (Docker) - Chapter 3 and Chapter 4](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5b8ac4c4170d508b1a80efcd38001035b0ce6805-1678175431786)

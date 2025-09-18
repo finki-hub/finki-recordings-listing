@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [Definition and Importance of Requirements](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/99993287fc2b052ed2b4b83be0c3013bfec810cb-1645016293059)
 2. [Requirements Specification with the IEEE 830 and IEEE 29148 Standards](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/99993287fc2b052ed2b4b83be0c3013bfec810cb-1645618707973)

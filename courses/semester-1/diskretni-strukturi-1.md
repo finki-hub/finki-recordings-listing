@@ -3,6 +3,7 @@ title: Дискретни структури 1
 keywords:
   - diskretni strukturi 1
   - ds1
+  - дс1
 ---
 
 # Дискретни структури 1

@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Вовед во XML](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/ea097b1a711c253bcdce852d05efa4d516355ff9-1645549218379)
 2. [Шеми на податоци - DTD](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/f482346f1df15c76f744aee06e5a2b78c97f323b-1614610242381?meetingId=f482346f1df15c76f744aee06e5a2b78c97f323b-1614610242381)
@@ -38,7 +38,7 @@ keywords:
 22. [NoSQL (2) - Конзистентност во дистрибуирана околина](https://www.youtube.com/watch?v=1qERpHaimjE)
 23. [NoSQL (2) NoSQL Имплементации](https://www.youtube.com/watch?v=ZOdFvNUk-DI)
 
-## Аудиториски вежби
+### Аудиториски вежби {#аудиториски-вежби-2021}
 
 1. [Вовед во XML и DTD](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/547f9f1a1e039eb36d91b1545c2b708a0e2b63b0-1614771924603?meetingId=547f9f1a1e039eb36d91b1545c2b708a0e2b63b0-1614771924603)
 2. [XML Schema](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bea5f452061bd1a75c337ceddae69a97ef4858f1-1615377147628?meetingId=bea5f452061bd1a75c337ceddae69a97ef4858f1-1615377147628)

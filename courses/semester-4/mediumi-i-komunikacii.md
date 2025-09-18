@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-###
+### 2022 {#предавања-2022}
 
 1. [Intro](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/861d05d95d2ff3317952ac651d06310f6e75980d-1645087279258)
 2. [Communication && Basics of communications](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/861d05d95d2ff3317952ac651d06310f6e75980d-1645688295842)

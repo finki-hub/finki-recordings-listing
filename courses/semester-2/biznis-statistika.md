@@ -27,7 +27,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2021
+### 2021 {#аудиториски-вежби-2021}
 
 1. [Вежби Дескриптивни Статистики](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e64effaa011cdf78c01e149d8fc370ab386779d4-1614606990516?meetingId=e64effaa011cdf78c01e149d8fc370ab386779d4-1614606990516)
 2. [Вежби Веројатност](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e64effaa011cdf78c01e149d8fc370ab386779d4-1615384692436?meetingId=e64effaa011cdf78c01e149d8fc370ab386779d4-1615384692436)

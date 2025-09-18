@@ -9,7 +9,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Evaluating Ideas](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/26cc0be62ab68de6a5a1e43be228123ea135bb16-1614599326086?meetingId=26cc0be62ab68de6a5a1e43be228123ea135bb16-1614599326086)
 2. [Meeting Tips](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/26cc0be62ab68de6a5a1e43be228123ea135bb16-1614610972203?meetingId=26cc0be62ab68de6a5a1e43be228123ea135bb16-1614610972203)

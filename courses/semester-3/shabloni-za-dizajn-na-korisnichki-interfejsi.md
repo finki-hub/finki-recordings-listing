@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a0b57e8ad7af7a66b8f26c7229f083d8f82c8ff4-1633597485823?meetingId=a0b57e8ad7af7a66b8f26c7229f083d8f82c8ff4-1633597485823)
 2. [Организација на содржина: Информациска архитектура и структура на апликации](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/eb2b05299996b14a8ca417053874f439ec05e98e-1634212020410?meetingId=eb2b05299996b14a8ca417053874f439ec05e98e-1634212020410)

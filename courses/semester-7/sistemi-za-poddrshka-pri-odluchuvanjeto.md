@@ -9,7 +9,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Вовед во Експертни Системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/864671832da66b527e28f89e41cf50c27a6647ef-1634288323218?meetingId=864671832da66b527e28f89e41cf50c27a6647ef-1634288323218)
 2. [Дрво за Одлучување](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/58459c42df44efb6b5ca63561bf2c147c542193d-1602672907035?meetingId=58459c42df44efb6b5ca63561bf2c147c542193d-1602672907035)
@@ -27,7 +27,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2021
+### 2021 {#аудиториски-вежби-2021}
 
 1. [Вовед во Python](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/467f8233c29c5d459ccabc311e95051b148352c7-1634129291012?meetingId=467f8233c29c5d459ccabc311e95051b148352c7-1634129291012)
 2. [Дрва на одлука](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/71a5db7f62413dff72395ac0b318f67749854c15-1635338150019?meetingId=71a5db7f62413dff72395ac0b318f67749854c15-1635338150019)

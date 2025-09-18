@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2021-2022
+### 2021/2022 {#предавања-2021-2022}
 
 1. [Глава 1 предавање](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/dda8257dfa2d3b1a88d71054093e9e315e79da98-1602661804753?meetingId=dda8257dfa2d3b1a88d71054093e9e315e79da98-1602661804753)
 2. [Глава 2 предавање](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/46d9260cfa35372739c286fdfe787b5a4a570684-1603092744298?meetingId=46d9260cfa35372739c286fdfe787b5a4a570684-1603092744298)
