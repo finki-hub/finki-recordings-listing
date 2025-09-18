@@ -13,7 +13,7 @@ keywords:
 
 ## Предавања
 
-### 2023-2024 {#предавања-2023-2024}
+### 2023/2024 {#предавања-2023-2024}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/c5a2e1e6e039a5bb4108ca80416b14d4f7a98dc0-1697625846543)
 2. [Типови на истражување](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8082a07120f4c6bea25f189c8f0e4b53cf94c472-1698231177611)
@@ -29,10 +29,10 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2023-2024 {#аудиториски-вежби-2023-2024}
+### 2023/2024 {#аудиториски-вежби-2023-2024}
 
-1. [Аудиториска вежба 1 & 2 - Вовед во LaTeX (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1698238241386)
-2. [Аудиториска вежба 1 & 2 - Вовед во LaTeX (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1697633656280)
+1. [Аудиториска вежба 1 и 2 - Вовед во LaTeX (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1698238241386)
+2. [Аудиториска вежба 1 и 2 - Вовед во LaTeX (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9c51496c5e2c2d1f6b29f0875a285bdebe8af9d7-1697633656280)
 3. [Аудиториска вежба 3 - Експерименти](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8fe09ae251eda21e204d4f47a1f42d8b4ef78548-1698846309864)
 4. [Аудиториска вежба 9 - Jupyter тетратки](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/57196083be5b07bf71690d56f2d5309f9a99a2a8-1703080329445)
 

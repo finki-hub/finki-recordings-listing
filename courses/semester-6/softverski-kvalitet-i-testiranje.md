@@ -19,7 +19,7 @@ keywords:
 5. [Graph Coverage for Source Code](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7f13a390304967efb6b04cf0a3f6b8de947d92c0-1617350034098?meetingId=7f13a390304967efb6b04cf0a3f6b8de947d92c0-1617350034098)
 6. [Graph Coverage for Design Elements](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7f13a390304967efb6b04cf0a3f6b8de947d92c0-1618559879414?meetingId=7f13a390304967efb6b04cf0a3f6b8de947d92c0-1618559879414)
 7. [Logic Coverage](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7f13a390304967efb6b04cf0a3f6b8de947d92c0-1619163759564?meetingId=7f13a390304967efb6b04cf0a3f6b8de947d92c0-1619163759564)
-8. [Integration and Object Oriented Testing](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7f13a390304967efb6b04cf0a3f6b8de947d92c0-1620978878720?meetingId=7f13a390304967efb6b04cf0a3f6b8de947d92c0-1620978878720)
+8. [Integration and Object-Oriented Testing](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7f13a390304967efb6b04cf0a3f6b8de947d92c0-1620978878720?meetingId=7f13a390304967efb6b04cf0a3f6b8de947d92c0-1620978878720)
 9. [Syntax Based Testing](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e078d9c3991fed103a3f85cf95bd54250403001d-1620366912502?meetingId=e078d9c3991fed103a3f85cf95bd54250403001d-1620366912502)
 
 ## Аудиториски вежби

@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Вовед во предметот](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9d6a067cdbbad2dfaf4e93767af05441a0ce750a-1602056732974?meetingId=9d6a067cdbbad2dfaf4e93767af05441a0ce750a-1602056732974)
 2. [Интернет сервиси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1ee068955b2b2558ddc9665424ee3c3504ac0ee5-1602568165042?meetingId=1ee068955b2b2558ddc9665424ee3c3504ac0ee5-1602568165042)

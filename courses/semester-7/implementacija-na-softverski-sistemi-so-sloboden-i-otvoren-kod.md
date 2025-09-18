@@ -15,7 +15,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Снимка 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5f6dffc980f19a84977bb1c1279504f9ddb4f38b-1665381789414)
 2. [Снимка 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/db0c311367b9356a3ebaa0fa7a33433596b5971d-1665986078814)
@@ -28,7 +28,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2022
+### 2022 {#аудиториски-вежби-2022}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5f6dffc980f19a84977bb1c1279504f9ddb4f38b-1665381789414)
 2. [Основи на PHP](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/db0c311367b9356a3ebaa0fa7a33433596b5971d-1665986078814)

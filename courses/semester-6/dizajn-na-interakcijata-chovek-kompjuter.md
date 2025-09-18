@@ -32,12 +32,12 @@ keywords:
 
 ### 2022 {#аудиториски-вежби-2022}
 
-1. [Intro](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d999b1fb96e6d2f8bf5d37fd70f99a5d7a5fc449-1646069152982)
-2. [Intro (2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d61b6b04755501a9466efe73f29527ea0f3971db-1646674412761)
-3. [Exercises 3 (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/78dc1a78a6caa1d73166ed78b62d5f97a325fe19-1647276609169)
-4. [Exercises 3 (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d9a0b85af6ad210ab59e0bae6743d620f7e480dd-1647881578891)
-5. [Exercises 4](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5501ccd22181821aa0f211ede6636df8754695e0-1648479550652)
-6. [Exercises 10](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6e504272201f43d6d8f05b1090d75a3a5491ef3c-1653579551059)
+1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d999b1fb96e6d2f8bf5d37fd70f99a5d7a5fc449-1646069152982)
+2. [Вовед (2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d61b6b04755501a9466efe73f29527ea0f3971db-1646674412761)
+3. [Аудиториска вежба 3 (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/78dc1a78a6caa1d73166ed78b62d5f97a325fe19-1647276609169)
+4. [Аудиториска вежба 3 (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d9a0b85af6ad210ab59e0bae6743d620f7e480dd-1647881578891)
+5. [Аудиториска вежба 4](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5501ccd22181821aa0f211ede6636df8754695e0-1648479550652)
+6. [Аудиториска вежба 10](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6e504272201f43d6d8f05b1090d75a3a5491ef3c-1653579551059)
 
 ## Дополнителна содржина
 

@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2021/2022
+### 2021/2022 {#предавања-2021-2022}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a5fadee95ac296956301877041cabe8417da0e7f-1633355719189?meetingId=a5fadee95ac296956301877041cabe8417da0e7f-1633355719189)
 2. [Роботите како интелегентни системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a69647f0d22762e4fa61c546d10f23140c3a4721-1634547311210?meetingId=a69647f0d22762e4fa61c546d10f23140c3a4721-1634547311210)

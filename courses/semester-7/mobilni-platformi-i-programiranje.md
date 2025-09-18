@@ -15,10 +15,10 @@ keywords:
 1. Вовед во предметот и вовед во Android
 2. [Вовед во Android](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f58afe7ba459a097fdb5b5a1855213c1c0e3d3a-1697729192038)
 3. [Вовед во Android 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/852e5c8822b524c436ad0cd9f17485966e823548-1698334994953)
-4. [Апликациски компоненти (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f3600df795af2875080eb3766cd025a00e8e450-1698944134508)
-5. Апликациски компоненти (Дел 2)
-6. [Апликациски компоненти (Дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/85eaecc950e7bc4b7ca3b0ed1d2ea084eb5f277c-1699549679009)
-7. [Апликациски компоненти (Дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04c9e31578015d8a2f44a4d924691d4f80cc9089-1700151862563)
+4. [Апликациски компоненти (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/2f3600df795af2875080eb3766cd025a00e8e450-1698944134508)
+5. Апликациски компоненти (дел 2)
+6. [Апликациски компоненти (дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/85eaecc950e7bc4b7ca3b0ed1d2ea084eb5f277c-1699549679009)
+7. [Апликациски компоненти (дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04c9e31578015d8a2f44a4d924691d4f80cc9089-1700151862563)
 
 ### 2022 {#предавања-2022}
 
@@ -38,8 +38,8 @@ keywords:
 4. [Intents](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8e696d3043632fc85b0c9dfac89c6766b2932473-1699454981975)
 5. [RecyclerView](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90fa3f3becc5665495863d3b775dbc1e7126017d-1700059999983)
 6. [MVVM + RepositoryPattern](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6f0ef45db3a2f34c820863c114e6f4eb4abdb496-1701269476168)
-7. [Fragments (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bd65cbaa03c42689ee901de3f85e3728377980c5-1701937283481)
-8. [Fragments (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a2adabaf6ccbdd62b88d37d186c2b279953bda7b-1702479187574)
+7. [Fragments (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bd65cbaa03c42689ee901de3f85e3728377980c5-1701937283481)
+8. [Fragments (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a2adabaf6ccbdd62b88d37d186c2b279953bda7b-1702479187574)
 
 ### 2022 {#аудиториски-вежби-2022}
 
@@ -60,8 +60,8 @@ keywords:
 15. [Dialogs in Android for Forms or Confirmation](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d30b4f74e453ec398f390236c56fabfea283d5cd-1670346942288)
 16. [Coroutines and Channels](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671137096940)
 17. [MVVM + MovieApp API Search Movies using Retrofit and Coroutines](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1cd80f9228e5e88e6558f130d7ceff90b39a15e3-1671141835740)
-18. [Room (Persisting Data in Local Database) (Дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672850260132)
-19. [Room (Persisting Data in Local Database) (Дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672853046918)
+18. [Room (Persisting Data in Local Database) (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672850260132)
+19. [Room (Persisting Data in Local Database) (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/29c3c43edd8d1e04568156157b2eb5921e7da1ec-1672853046918)
 
 ## Дополнителна содржина
 

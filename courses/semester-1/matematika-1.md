@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Фамилии од функции](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b35f69e8b343f7765330b69dd8edaa9de1c66e18-1603104624153?meetingId=b35f69e8b343f7765330b69dd8edaa9de1c66e18-1603104624153)
 2. [Лимеси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b35f69e8b343f7765330b69dd8edaa9de1c66e18-1603712690751?meetingId=b35f69e8b343f7765330b69dd8edaa9de1c66e18-1603712690751)
@@ -25,7 +25,9 @@ keywords:
 
 ## Аудиториски вежби
 
-1. [Вежби](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b35f69e8b343f7765330b69dd8edaa9de1c66e18-1609156181233?meetingId=b35f69e8b343f7765330b69dd8edaa9de1c66e18-1609156181233)
+### 2020 {#аудиториски-вежби-2020}
+
+1. [Аудиториски вежби](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/b35f69e8b343f7765330b69dd8edaa9de1c66e18-1609156181233?meetingId=b35f69e8b343f7765330b69dd8edaa9de1c66e18-1609156181233)
 
 ## Дополнителна содржина
 

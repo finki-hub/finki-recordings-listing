@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [Introduction to smart cities](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/76940452467005ab28cc20f9e246747b18a97dec-1697529070670)
 2. [Smart Energy Systems](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/76940452467005ab28cc20f9e246747b18a97dec-1698133856545)

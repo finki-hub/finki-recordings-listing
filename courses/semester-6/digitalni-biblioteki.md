@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [Вовед во дигитални библиотеки](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/73b7dc2af42836e2dd0de1f2ef5761a03fb15852-1645782625569)
 2. [Вовед во XML - Extensive Markup Language](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/73b7dc2af42836e2dd0de1f2ef5761a03fb15852-1646229060072)

@@ -17,9 +17,9 @@ keywords:
 5. [Изо-контури, изо-површини](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5ae12146bb0b35abf1fdfe007b6be4ae0eb4890e-1667911880282)
 6. [Волуменска визуелизација](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/89db3ca729b09a3d0b42ad762774ffb0ee8a5de9-1668517024037)
 7. [Визуелизација на вектори](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/219961c0010d6bc51ee5c7c983abc73a2464a4bd-1669726402686)
-8. [Визуелизација на информации](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/604f3f66e6e895b56fa1d6fdb9cd2f5485c86488-1670330738717)
+8. [Визуелизација на информации (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/604f3f66e6e895b56fa1d6fdb9cd2f5485c86488-1670330738717)
 9. [Визуелизација на информации (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/72b6c88564b6704284a51bf25a60904ce81a4a05-1670935624173)
-10. [Визуелизација на податоци - Дисторзиски техники](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/297e6cde189fc055db0a763c92a10b38a33c03b1-1671540340030)
+10. [Визуелизација на информации (дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/297e6cde189fc055db0a763c92a10b38a33c03b1-1671540340030)
 
 ## Аудиториски вежби
 

@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### проф. Игор Мишковски, 2020
+### Игор Мишковски, 2020 {#предавања-им-2020}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/f975f8d01e28a79d28372e3153c4fca6fc3ba4cd-1613566466750?meetingId=f975f8d01e28a79d28372e3153c4fca6fc3ba4cd-1613566466750)
 2. [Процеси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/0b7ceff43407a7eee61649a65ab60c3beb1367ff-1614002831543?meetingId=0b7ceff43407a7eee61649a65ab60c3beb1367ff-1614002831543)
@@ -31,7 +31,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2021
+### 2021 {#аудиториски-вежби-2021}
 
 1. [Java I/O (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1d3e180551ec83640edc5e59c9a504ee7bcd68df-1614005575179?meetingId=1d3e180551ec83640edc5e59c9a504ee7bcd68df-1614005575179)
 2. [Java I/O (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/1d3e180551ec83640edc5e59c9a504ee7bcd68df-1614610197530?meetingId=1d3e180551ec83640edc5e59c9a504ee7bcd68df-1614610197530)

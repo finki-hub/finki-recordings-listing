@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### проф. Ѓорѓи Маџаров, 2021
+### Ѓорѓи Маџаров, 2021 {#предавања-ѓм-2021}
 
 1. [Вовед во Java](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/c3fd9a158a3028b7e4ba8bead57777ed76b4366c-1633513841429?meetingId=c3fd9a158a3028b7e4ba8bead57777ed76b4366c-1633513841429)
 2. [Класи, наследување, полиморфизам, интерфејси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/20329dccb5c6675a8cd65bb8d8a31b7f1a05b781-1634118864904?meetingId=20329dccb5c6675a8cd65bb8d8a31b7f1a05b781-1634118864904)
@@ -27,7 +27,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### Ана Тодоровска, Стефан Андонов, 2021/2022
+### Ана Тодоровска, Стефан Андонов, 2021/2022 {#аудиториски-вежби-ат-са-2021-2022}
 
 1. [Вовед во Java](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/9ab5b4d7cc20bed8c80f3e3776b46011259b0051-1634103911298?meetingId=9ab5b4d7cc20bed8c80f3e3776b46011259b0051-1634103911298)
 2. [Класи, наследување, полиморфизам, интерфејси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/7e83e97c31ad48cc6d3bd261d8f8191fc9f8f5cd-1634835161509?meetingId=7e83e97c31ad48cc6d3bd261d8f8191fc9f8f5cd-1634835161509)

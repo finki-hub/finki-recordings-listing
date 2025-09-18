@@ -11,7 +11,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Introduction](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/39fdddbc2354dfc96f16553813b9c61bcec8a9c1-1633431461155?meetingId=39fdddbc2354dfc96f16553813b9c61bcec8a9c1-1633431461155)
 2. [Optics and Colors](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/60b2c44f550fb44854f55948485f31b1cb903bbb-1634025398050?meetingId=60b2c44f550fb44854f55948485f31b1cb903bbb-1634025398050)

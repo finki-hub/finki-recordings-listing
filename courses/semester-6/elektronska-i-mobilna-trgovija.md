@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [Бизнис Модели 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/277e0c47c945bfa1f0eb4d261b76ee10b035f071-1614235828571?meetingId=277e0c47c945bfa1f0eb4d261b76ee10b035f071-1614235828571)
 2. [Бизнис Модели 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/277e0c47c945bfa1f0eb4d261b76ee10b035f071-1614841193958?meetingId=277e0c47c945bfa1f0eb4d261b76ee10b035f071-1614841193958)
@@ -27,7 +27,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2020
+### 2020 {#аудиториски-вежби-2020}
 
 1. [Initial Project, FetchType, EntityGraph, JPA Projections](https://youtu.be/lvdFe16W9_0)
 2. [Optimistic Locking, Views, Materialized Views, Scheduling](https://www.youtube.com/watch?v=VNjA7Kg5bRk&feature=youtu.be&ab_channel=AnaTodorovska)

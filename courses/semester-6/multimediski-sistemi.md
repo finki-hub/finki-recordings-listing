@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2020
+### 2020 {#предавања-2020}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.0/playback.html?meetingId=6b7f467966b220e9bbfc39c79ef644b86d2d4086-1602599552618)
 2. [Digital data acquistion - Chapter 01](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/24f0db1918a69ad233407c3ec21ad5f471fb163c-1603206124890?meetingId=24f0db1918a69ad233407c3ec21ad5f471fb163c-1603206124890)

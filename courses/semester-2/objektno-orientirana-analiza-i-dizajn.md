@@ -12,7 +12,7 @@ keywords:
 
 ## Предавања
 
-### 2022
+### 2022 {#предавања-2022}
 
 1. [ООП Концепти](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/42d781633ed7d08647ae386645a4ff3f56330a7e-1645609273134)
 2. [Use Case дијаграми](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/cde7df813205d1138a4790e9109de604d2238c2d-1646213740360)
@@ -26,7 +26,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### 2020
+### 2020 {#аудиториски-вежби-2020}
 
 1. [UML - ООП Концепти](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d56574adffab575b0ac9776c1f01999b6531bfd4-1614346750462?meetingId=d56574adffab575b0ac9776c1f01999b6531bfd4-1614346750462)
 2. [UML - Use Case дијаграми](https://youtu.be/0xB6HCcBUVM)

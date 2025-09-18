@@ -10,7 +10,7 @@ keywords:
 
 ## Предавања
 
-### 2021
+### 2021 {#предавања-2021}
 
 1. [Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04a537936b1521f0c01f86deab9f491d03b71d6d-1613723979243?meetingId=04a537936b1521f0c01f86deab9f491d03b71d6d-1613723979243)
 2. [Перформанси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/04a537936b1521f0c01f86deab9f491d03b71d6d-1613983791945?meetingId=04a537936b1521f0c01f86deab9f491d03b71d6d-1613983791945)
@@ -26,7 +26,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### Ненад, 2021
+### Ненад Анчев, 2021 {#аудиториски-вежби-на-2021}
 
 1. [Бројни системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/960c7dee86697da72cf2d4ffdf46214e848b4134-1614077380198?meetingId=960c7dee86697da72cf2d4ffdf46214e848b4134-1614077380198)
 2. [Перформанси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/960c7dee86697da72cf2d4ffdf46214e848b4134-1614680926126?meetingId=960c7dee86697da72cf2d4ffdf46214e848b4134-1614680926126)
@@ -40,7 +40,7 @@ keywords:
 10. [Кеш меморија - 2021](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/960c7dee86697da72cf2d4ffdf46214e848b4134-1620658470362?meetingId=960c7dee86697da72cf2d4ffdf46214e848b4134-1620658470362)
 11. [Кеш меморија - 2022](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/12e5b1c859eaf606edd8474a6fbe105f27ff871a-1652194555211)
 
-### Јана, 2022
+### Јана Кузманова, 2022 {#аудиториски-вежби-јк-2022}
 
 1. [Бројни системи](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/65091a99729773693d0f51e9ab957408adb59c5f-1645523154157)
 2. [Перформанси](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/65091a99729773693d0f51e9ab957408adb59c5f-1646210118411)
