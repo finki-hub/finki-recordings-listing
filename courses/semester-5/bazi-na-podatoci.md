@@ -63,16 +63,16 @@ keywords:
 
 ### Повторување и утврдување
 
-- [Модел на реалниот свет (ЕР дијаграми)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bb3119bba32aca51b4b2c2e5aab9870de78fcc34-1602855713910?meetingId=bb3119bba32aca51b4b2c2e5aab9870de78fcc34-1602855713910)
-- [ПЕР дијаграми](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/de8da5bff483f29a375a8f4fbe08481f5fe81c30-1634820907220?meetingId=de8da5bff483f29a375a8f4fbe08481f5fe81c30-1634820907220)
-- [Релацион модел на бази на податоци](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5aa5ead77338dab9b4dab38c0c6ca2c3f91c5829-1635409711318?meetingId=5aa5ead77338dab9b4dab38c0c6ca2c3f91c5829-1635409711318)
-- [Релациона алгебра](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a5f59075a2e3b7aa274b567fc21ca68829a2a91c-1636997940702?meetingId=a5f59075a2e3b7aa274b567fc21ca68829a2a91c-1636997940702)
-- [Функционални зависимости и нормализација](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a6dec7e771fe894e72e1b0a9e049ec5bd08fdae6-1636018337910?meetingId=a6dec7e771fe894e72e1b0a9e049ec5bd08fdae6-1636018337910)
-- [Вовед во SQL: DML (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/721aa7d21091626166b1d51a5f1a96206c522f2f-1639418374377)
-- [Вовед во SQL: DML (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/f0e4f88a19f6621b5f1202ed0e598fcb3845bbc9-1639504551786)
-- [Вовед во SQL: DML (дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e0cea467ee63381b79ce136099d83c896d2e7ba0-1640022520625)
-- [Вовед во SQL: DML (дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/727fbc30ce2c643284e4dcbe05a025e9c50141dd-1640102343002)
-- [Вовед во SQL: DML (дел 5)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/4377ddb35363cf8436179861c5d16f32c070353a-1640166583157)
+1. [Модел на реалниот свет (ЕР дијаграми)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/bb3119bba32aca51b4b2c2e5aab9870de78fcc34-1602855713910?meetingId=bb3119bba32aca51b4b2c2e5aab9870de78fcc34-1602855713910)
+2. [ПЕР дијаграми](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/de8da5bff483f29a375a8f4fbe08481f5fe81c30-1634820907220?meetingId=de8da5bff483f29a375a8f4fbe08481f5fe81c30-1634820907220)
+3. [Релацион модел на бази на податоци](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/5aa5ead77338dab9b4dab38c0c6ca2c3f91c5829-1635409711318?meetingId=5aa5ead77338dab9b4dab38c0c6ca2c3f91c5829-1635409711318)
+4. [Релациона алгебра](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a5f59075a2e3b7aa274b567fc21ca68829a2a91c-1636997940702?meetingId=a5f59075a2e3b7aa274b567fc21ca68829a2a91c-1636997940702)
+5. [Функционални зависимости и нормализација](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/a6dec7e771fe894e72e1b0a9e049ec5bd08fdae6-1636018337910?meetingId=a6dec7e771fe894e72e1b0a9e049ec5bd08fdae6-1636018337910)
+6. [Вовед во SQL: DML (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/721aa7d21091626166b1d51a5f1a96206c522f2f-1639418374377)
+7. [Вовед во SQL: DML (дел 2)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/f0e4f88a19f6621b5f1202ed0e598fcb3845bbc9-1639504551786)
+8. [Вовед во SQL: DML (дел 3)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/e0cea467ee63381b79ce136099d83c896d2e7ba0-1640022520625)
+9. [Вовед во SQL: DML (дел 4)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/727fbc30ce2c643284e4dcbe05a025e9c50141dd-1640102343002)
+10. [Вовед во SQL: DML (дел 5)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/4377ddb35363cf8436179861c5d16f32c070353a-1640166583157)
 
 ## Белешки
 
