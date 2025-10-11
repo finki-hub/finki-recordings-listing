@@ -11,8 +11,6 @@ export default {
   },
   enhanceApp({ app, router }) {
     if (typeof window !== 'undefined') {
-      let isInitialized = false;
-
       const injectStarsAndFavorites = () => {
         const { isFavorite, toggleFavorite } = useFavorites();
 
@@ -166,17 +164,10 @@ export default {
         }
       };
 
-      router.onAfterRouteChange = injectStarsAndFavorites;
-
-      const initWhenReady = () => {
-        if (isInitialized) return;
-
-        if (injectStarsAndFavorites()) {
-          isInitialized = true;
-        } else {
+      const initWithRetry = () => {
+        if (!injectStarsAndFavorites()) {
           const observer = new MutationObserver(() => {
             if (injectStarsAndFavorites()) {
-              isInitialized = true;
               observer.disconnect();
             }
           });
@@ -192,10 +183,14 @@ export default {
         }
       };
 
+      router.onAfterRouteChange = () => {
+        setTimeout(initWithRetry, 50);
+      };
+
       if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initWhenReady);
+        document.addEventListener('DOMContentLoaded', initWithRetry);
       } else {
-        setTimeout(initWhenReady, 0);
+        setTimeout(initWithRetry, 0);
       }
     }
   },
