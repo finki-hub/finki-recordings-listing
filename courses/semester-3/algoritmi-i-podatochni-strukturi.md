@@ -153,7 +153,6 @@ keywords:
 12. [Вежби 12](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/87f9b9695ee24c0ac3e329ce4affffd1b198db05-1640605370801)
 13. [Вежби 13](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/87f9b9695ee24c0ac3e329ce4affffd1b198db05-1641819427375)
 
-
 ### YouTube (без звук) {#аудиториски-вежби-youtube}
 
 1. [Вовед во Java](https://youtu.be/OYYdQwOiIYg)
