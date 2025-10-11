@@ -11,13 +11,14 @@ export default {
   },
   enhanceApp({ app, router }) {
     if (typeof window !== 'undefined') {
+      let isInitialized = false;
+
       const injectStarsAndFavorites = () => {
         const { isFavorite, toggleFavorite } = useFavorites();
 
         const sidebarLinks = document.querySelectorAll('.VPSidebarItem a[href]');
         if (sidebarLinks.length === 0) {
-          setTimeout(injectStarsAndFavorites, 100);
-          return;
+          return false;
         }
 
         sidebarLinks.forEach((anchor) => {
@@ -43,6 +44,7 @@ export default {
         });
 
         createFavoritesSection();
+        return true;
       };
 
       const updateAllStarsAndFavorites = () => {
@@ -165,7 +167,36 @@ export default {
       };
 
       router.onAfterRouteChange = injectStarsAndFavorites;
-      injectStarsAndFavorites();
+
+      const initWhenReady = () => {
+        if (isInitialized) return;
+
+        if (injectStarsAndFavorites()) {
+          isInitialized = true;
+        } else {
+          const observer = new MutationObserver(() => {
+            if (injectStarsAndFavorites()) {
+              isInitialized = true;
+              observer.disconnect();
+            }
+          });
+
+          const app = document.getElementById('app');
+          if (app) {
+            observer.observe(app, { childList: true, subtree: true });
+          }
+
+          setTimeout(() => {
+            observer.disconnect();
+          }, 5000);
+        }
+      };
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initWhenReady);
+      } else {
+        setTimeout(initWhenReady, 0);
+      }
     }
   },
 };
