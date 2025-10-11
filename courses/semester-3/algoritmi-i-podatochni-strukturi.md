@@ -92,7 +92,7 @@ keywords:
 
 ## Аудиториски вежби
 
-### Ана Тодоровска, 2021 {#аудиториски-вежби-2021}
+### Ана Тодоровска, 2021 {#аудиториски-вежби-ат-2021}
 
 1. [SLL, DLL, Brute Force, Алчни алгоритми (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90efa2e2a2ea317f427c8cb00d59a128053a3a70-1635406670233?meetingId=90efa2e2a2ea317f427c8cb00d59a128053a3a70-1635406670233)
 2. [Алчни алгоритми (дел 2); Динамичко програмирање (дел 1)](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90efa2e2a2ea317f427c8cb00d59a128053a3a70-1636008520468?meetingId=90efa2e2a2ea317f427c8cb00d59a128053a3a70-1636008520468)
@@ -103,14 +103,14 @@ keywords:
 7. [Графови: Вовед](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90efa2e2a2ea317f427c8cb00d59a128053a3a70-1640246403949)
 8. [Графови: Алгоритми](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/90efa2e2a2ea317f427c8cb00d59a128053a3a70-1640699501503)
 
-### Ефтим Здравевски, 2021 {#аудиториски-вежби-2021}
+### Ефтим Здравевски, 2021 {#аудиториски-вежби-ез-2021}
 
 1. [Вежби 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/453391f770794a0d30a007d43c13710313fc1e76-1634198003594?meetingId=453391f770794a0d30a007d43c13710313fc1e76-1634198003594)
 2. [Вежби 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/453391f770794a0d30a007d43c13710313fc1e76-1635407954964?meetingId=453391f770794a0d30a007d43c13710313fc1e76-1635407954964)
 3. [Вежби 3](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/453391f770794a0d30a007d43c13710313fc1e76-1636016149244?meetingId=453391f770794a0d30a007d43c13710313fc1e76-1636016149244)
 4. [Вежби 4](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/453391f770794a0d30a007d43c13710313fc1e76-1639645465582)
 
-### Илинка Ивановска, 2021 {#аудиториски-вежби-2021}
+### Илинка Ивановска, 2021 {#аудиториски-вежби-ии-2021}
 
 1. [Вежби 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d4020d9fa4b513add1adaf05a229b69fa292f2ed-1634204981158?meetingId=d4020d9fa4b513add1adaf05a229b69fa292f2ed-1634204981158)
 2. [Вежби 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d4020d9fa4b513add1adaf05a229b69fa292f2ed-1634809693422?meetingId=d4020d9fa4b513add1adaf05a229b69fa292f2ed-1634809693422)
@@ -123,7 +123,7 @@ keywords:
 9. [Вежби 9](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d4020d9fa4b513add1adaf05a229b69fa292f2ed-1640255284072)
 10. [Вежби 10](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/d4020d9fa4b513add1adaf05a229b69fa292f2ed-1640861208913)
 
-### Ненад Анчев, 2021 {#аудиториски-вежби-2021}
+### Ненад Анчев, 2021 {#аудиториски-вежби-на-2021}
 
 1. [Вежби 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8f2197b08b166f4ddb96d2bb32d32db393552b08-1634198893582?meetingId=8f2197b08b166f4ddb96d2bb32d32db393552b08-1634198893582)
 2. [Вежби 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8f2197b08b166f4ddb96d2bb32d32db393552b08-1634801062994?meetingId=8f2197b08b166f4ddb96d2bb32d32db393552b08-1634801062994)
@@ -137,7 +137,7 @@ keywords:
 10. [Вежби 10](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8f2197b08b166f4ddb96d2bb32d32db393552b08-1640248195063)
 11. [Вежби 11](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/8f2197b08b166f4ddb96d2bb32d32db393552b08-1640856316314)
 
-### Јована Добрева, 2021 {#аудиториски-вежби-2021}
+### Јована Добрева, 2021 {#аудиториски-вежби-јд-2021}
 
 1. [Вежби 1](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/87f9b9695ee24c0ac3e329ce4affffd1b198db05-1634554020292?meetingId=87f9b9695ee24c0ac3e329ce4affffd1b198db05-1634554020292)
 2. [Вежби 2](https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/87f9b9695ee24c0ac3e329ce4affffd1b198db05-1635159417750?meetingId=87f9b9695ee24c0ac3e329ce4affffd1b198db05-1635159417750)
