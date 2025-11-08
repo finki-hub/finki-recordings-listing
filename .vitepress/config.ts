@@ -27,6 +27,7 @@ const vitePressOptions: UserConfig = {
       });
     },
   },
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     nav: [
       { text: "Дома", link: "/" },

@@ -3,7 +3,10 @@ title: Шаблони за дизајн на кориснички интерфе
 keywords:
   - shabloni za dizajn na korisnichki interfejsi
   - sabloni za dizajn na korisnicki interfejsi
-  - шднк
+  - sdki
+  - szdnki
+  - шдки
+  - шзднки
 ---
 
 # Шаблони за дизајн на кориснички интерфејси
@@ -24,7 +27,9 @@ keywords:
 
 ## Аудиториски вежби
 
-- **Нема**
+### Влатко Спасев, 2022 {#аудиториски-вежби-вс-2022}
+
+1. [Аудиториска вежба 2](https://www.youtube.com/watch?v=u6-BoPOrCjQ)
 
 ## Дополнителна содржина
 
