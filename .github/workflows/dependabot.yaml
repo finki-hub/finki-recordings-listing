@@ -1,0 +1,14 @@
+name: Dependabot Auto-Merge
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  dependabot:
+    uses: finki-hub/.github/.github/workflows/dependabot.yaml@main
+    secrets: inherit
